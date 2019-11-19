@@ -1,0 +1,3 @@
+function FindProxyForURL(url, host) {
+  return "PROXY win1903:1080";"DIRECT";
+}
